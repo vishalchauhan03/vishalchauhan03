@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-chauhan-137a931b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-chauhan-137a931b6" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_vishal_chauhan083/?igshid=zddkntzintm%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_vishal_chauhan083/?igshid=zddkntzintm%3d" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/vishal083" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vishal083" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/_201500791?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_201500791?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vishal29703/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vishal29703/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/viishalchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/viishalchauhan" height="30" width="40" /></a>
+<a href="https://instagram.com/_vishal_chauhan083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vishal_chauhan083" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vishal083" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishal083" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/_201500791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_201500791" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishal29703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishal29703" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
